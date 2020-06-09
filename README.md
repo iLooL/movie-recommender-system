@@ -2,13 +2,13 @@
 
 ## Code and Resources Used
 
--Python
--Pandas
--Numpy
--SKlearn
--Seaborn
--Matplotlib
--Surprise
+- Python
+- Pandas
+- Numpy
+- SKlearn
+- Seaborn
+- Matplotlib
+- Surprise
 
 ## About This Project
 
